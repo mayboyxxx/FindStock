@@ -1,0 +1,5 @@
+good list is :['000150']
+perfect list is :[]
+
+
+000150 ：11.36

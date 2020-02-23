@@ -1,0 +1,3 @@
+good list is :['300644', '000613', '900951']
+perfect list is
+:[]
